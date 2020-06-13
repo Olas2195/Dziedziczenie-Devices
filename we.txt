@@ -1,0 +1,27 @@
+Telefon
+Xiaomi Redmi Note 9 Pro 6
+6GB
+procesor1
+79Mpix Tylni + 16Mpix Przedni
+Laptop
+Lenovo Legion Y540-15IRH
+8GB
+procesor1a
+512 GB SSD
+karta1a
+Telefon
+OPPO A52
+4GB
+procesor2
+24Mpix Tylni + 8Mpix Przedni  
+Laptop
+Acer Nitro 5
+8GB
+procesor4
+512 GB SSD
+karta4
+Telefon
+Sony Xperia L4
+3GB
+procesor3
+20Mpix Tylni + 8Mpix Przedni

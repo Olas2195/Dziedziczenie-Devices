@@ -1,0 +1,13 @@
+[
+{"nazwa":Xiaomi Redmi Note 9 Pro 6,"ram":6GB,"procesor":procesor1,"aparat":79Mpix Tylni + 16Mpix Przedni},
+{"nazwa":Lenovo Legion Y540-15IRH,"ram":8GB,"procesor":procesor1a,"dysk":512 GB SSD,"karta graficzna":karta1a},
+{"nazwa":OPPO A52,"ram":4GB,"procesor":procesor2,"aparat":24Mpix Tylni + 8Mpix Przedni  },
+{"nazwa":Acer Nitro 5,"ram":8GB,"procesor":procesor4,"dysk":512 GB SSD,"karta graficzna":karta4},
+{"nazwa":Sony Xperia L4,"ram":3GB,"procesor":procesor3,"aparat":20Mpix Tylni + 8Mpix Przedni},
+{"nazwa":Xiaomi Redmi Note 9 Pro 6,"ram":6GB,"procesor":procesor1,"aparat":79Mpix Tylni + 16Mpix Przedni},
+{"nazwa":Lenovo Legion Y540-15IRH,"ram":8GB,"procesor":procesor1a,"dysk":512 GB SSD,"karta graficzna":karta1a},
+{"nazwa":OPPO A52,"ram":4GB,"procesor":procesor2,"aparat":24Mpix Tylni + 8Mpix Przedni  },
+{"nazwa":Acer Nitro 5,"ram":8GB,"procesor":procesor4,"dysk":512 GB SSD,"karta graficzna":karta4},
+{"nazwa":Sony Xperia L4,"ram":3GB,"procesor":procesor3,"aparat":20Mpix Tylni + 8Mpix Przedni},
+{"nazwa":As,"ram":sa,"procesor":as,"dysk":as,"karta graficzna":as},
+]
